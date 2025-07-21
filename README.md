@@ -2,13 +2,13 @@
 
 A Power BI case study analyzing the financial and audience performance of movies using two datasets—**Production Details** and **Revenue & Ratings**.
 
----
+
 
 ## 📌 Overview
 
 As a data analyst at **BigScreen Insights**, your goal is to uncover trends in the movie industry using data on budget, revenue, ratings, genres, and more.
 
----
+
 
 ## 📂 Datasets
 
@@ -18,7 +18,7 @@ As a data analyst at **BigScreen Insights**, your goal is to uncover trends in t
 2. **Movie_Revenue_and_Ratings.xlsx**
    - Gross Revenue, IMDb & Rotten Tomatoes Ratings, Theaters, MPAA, Synopsis
 
----
+
 
 ## 🔧 Key Features
 
@@ -29,7 +29,7 @@ As a data analyst at **BigScreen Insights**, your goal is to uncover trends in t
 - Extracted themes from synopsis
 - Time series forecast on genre trends
 
----
+
 
 ## 📊 Dashboard Highlights
 
@@ -40,7 +40,7 @@ As a data analyst at **BigScreen Insights**, your goal is to uncover trends in t
 Filters: Year slicer, genre, language  
 Compare two movies side-by-side
 
----
+
 
 ## 🧰 Tools Used
 
